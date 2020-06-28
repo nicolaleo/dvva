@@ -3,20 +3,36 @@
  "children": [
   {
    "name": "Cluster0",
-   "value": 1,
+   "value": 170,
    "children": [
     {
-     "name": "Exterior Parking Spaces",
+     "name": "clandestini",
      "value": 1
     },
     {
-     "name": "Interior Parking Spaces",
+     "name": "parroco",
      "value": 1
-    }
+    },
+	{
+	"name": "ultimi",
+     "value": 1
+    },
+	{
+	"name": "emarginati",
+     "value": 1
+    },
+	{
+	"name": "poveri",
+     "value": 1
+    },
+	{
+	"name": "oratorio",
+     "value": 1
+    },
    ]},
    {
    "name": "Cluster1",
-   "value": 1,
+   "value": 308089,
    "children": [
     {
      "name": "Exterior Parking Spaces",
@@ -29,7 +45,7 @@
    ]},
    {
    "name": "Cluster2",
-   "value": 1,
+   "value": 1576,
    "children": [
     {
      "name": "Exterior Parking Spaces",
@@ -42,7 +58,7 @@
    ]},
    {
    "name": "Cluster3",
-   "value": 1,
+   "value": 367,
    "children": [
     {
      "name": "Exterior Parking Spaces",
