@@ -1,0 +1,458 @@
+{
+ "name": "Fase1",
+ "children": [
+  {
+   "name": "Cluster0",
+   "value": 170,
+   "children": [
+    {
+     "name": "don",
+     "value": 1
+    },{
+     "name": "accoglienza",
+     "value": 1
+    },
+    {
+     "name": "prete",
+     "value": 1
+    },
+    {
+     "name": "lutto",
+     "value": 1
+    },
+    {
+     "name": "clandestini",
+     "value": 1
+    },
+    {
+     "name": "parroco",
+     "value": 1
+    },
+	{
+	"name": "ultimi",
+     "value": 1
+    },
+	{
+	"name": "emarginati",
+     "value": 1
+    },
+	{
+	"name": "poveri",
+     "value": 1
+    },
+	{
+	"name": "oratorio",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster1",
+   "value": 308089,
+   "children": [
+    {
+     "name": "virus",
+     "value": 1
+    },
+    {
+     "name": "mascherine",
+     "value": 1
+    },
+    {
+     "name": "medici",
+     "value": 1
+    },
+    {
+     "name": "quarantena",
+     "value": 1
+    },
+    {
+     "name": "situazione",
+     "value": 1
+    },
+    {
+     "name": "ospedale",
+     "value": 1
+    },
+    {
+     "name": "lutto",
+     "value": 1
+    },
+    {
+     "name": "coronavirus",
+     "value": 1
+    },
+    {
+     "name": "problema",
+     "value": 1
+    },
+    {
+     "name": "casi",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster2",
+   "value": 1576,
+   "children": [
+    {
+     "name": "soldi",
+     "value": 1
+    },
+    {
+     "name": "merda",
+     "value": 1
+    },
+    {
+     "name": "governo",
+     "value": 1
+    },
+    {
+     "name": "problema",
+     "value": 1
+    },
+    {
+     "name": "spesa",
+     "value": 1
+    },
+    {
+     "name": "sfinimento",
+     "value": 1
+    },
+    {
+     "name": "magistratura",
+     "value": 1
+    },
+    {
+     "name": "situazione",
+     "value": 1
+    },
+    {
+     "name": "cazzo",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster3",
+   "value": 367,
+   "children": [
+    {
+     "name": "explore",
+     "value": 1
+    },
+    {
+     "name": "time",
+     "value": 1
+    },
+    {
+     "name": "photos",
+     "value": 1
+    },
+    {
+     "name": "that",
+     "value": 1
+    },
+    {
+     "name": "need",
+     "value": 1
+    },
+    {
+     "name": "italy",
+     "value": 1
+    },
+    {
+     "name": "our",
+     "value": 1
+    },
+    {
+     "name": "http",
+     "value": 1
+    },
+    {
+     "name": "those",
+     "value": 1
+    },
+    {
+     "name": "deaths",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster4",
+   "value": 4470,
+   "children": [
+    {
+     "name": "cosa",
+     "value": 1
+    },
+    {
+     "name": "stessa",
+     "value": 1
+    },
+    {
+     "name": "unica",
+     "value": 1
+    },
+    {
+     "name": "prima",
+     "value": 1
+    },
+    {
+     "name": "bella",
+     "value": 1
+    },
+    {
+     "name": "genere",
+     "value": 1
+    },
+    {
+     "name": "casa",
+     "value": 1
+    },
+    {
+     "name": "altra",
+     "value": 1
+    },
+    {
+     "name": "gente",
+     "value": 1
+    },
+    {
+     "name": "della",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster5",
+   "value": 1831,
+   "children": [
+    
+{
+     "name": "grazie",
+     "value": 1
+    },
+    {
+     "name": "follow",
+     "value": 1
+    },
+    {
+     "name": "alle",
+     "value": 1
+    },
+    {
+     "name": "cuore",
+     "value": 1
+    },
+    {
+     "name": "medici",
+     "value": 1
+    },
+    {
+     "name": "casa",
+     "value": 1
+    },
+    {
+     "name": "emergenza",
+     "value": 1
+    },
+    {
+     "name": "anni",
+     "value": 1
+    },
+    {
+     "name": "nuovo",
+     "value": 1
+    },
+    {
+     "name": "favore",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster6",
+   "value": 741,
+   "children": [
+    
+{
+     "name": "mani",
+     "value": 1
+    },
+    {
+     "name": "nelle",
+     "value": 1
+    },
+    {
+     "name": "lavarsi",
+     "value": 1
+    },
+    {
+     "name": "dalle",
+     "value": 1
+    },
+    {
+     "name": "pulite",
+     "value": 1
+    },
+    {
+     "name": "buone",
+     "value": 1
+    },
+    {
+     "name": "nude",
+     "value": 1
+    },
+    {
+     "name": "governo",
+     "value": 1
+    },
+    {
+     "name": "della",
+     "value": 1
+    },
+    {
+     "name": "sporche",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster7",
+   "value": 240,
+   "children": [
+    
+{
+     "name": "venerdì",
+     "value": 1
+    },
+    {
+     "name": "santo",
+     "value": 1
+    },
+    {
+     "name": "crocifissione",
+     "value": 1
+    },
+    {
+     "name": "capitolazione",
+     "value": 1
+    },
+    {
+     "name": "patologie",
+     "value": 1
+    },
+    {
+     "name": "carne",
+     "value": 1
+    },
+    {
+     "name": "coronavirus",
+     "value": 1
+    },
+    {
+     "name": "patologie",
+     "value": 1
+    },
+    {
+     "name": "tampone",
+     "value": 1
+    },
+    {
+     "name": "pandemia",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster8",
+   "value": 552,
+   "children": [
+    
+{
+     "name": "dio",
+     "value": 1
+    },
+    {
+     "name": "grazie",
+     "value": 1
+    },
+    {
+     "name": "santo",
+     "value": 1
+    },
+    {
+     "name": "carità",
+     "value": 1
+    },
+    {
+     "name": "benedizione",
+     "value": 1
+    },
+    {
+     "name": "uomini",
+     "value": 1
+    },
+    {
+     "name": "salvi",
+     "value": 1
+    },
+    {
+     "name": "anima",
+     "value": 1
+    },
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "chiesa",
+     "value": 1
+    }
+   ]},
+   
+   {
+   "name": "Cluster9",
+   "value": 1895,
+   "children": [
+    
+{
+     "name": "sanità",
+     "value": 1
+    },
+    {
+     "name": "tagli",
+     "value": 1
+    },
+    {
+     "name": "istituto",
+     "value": 1
+    },
+    {
+     "name": "medici",
+     "value": 1
+    },
+    {
+     "name": "morti",
+     "value": 1
+    },
+    {
+     "name": "miliardi",
+     "value": 1
+    },
+    {
+     "name": "emergenza",
+     "value": 1
+    },
+    {
+     "name": "ospedali",
+     "value": 1
+    },
+    {
+     "name": "casi",
+     "value": 1
+    },
+    {
+     "name": "soldi",
+     "value": 1
+    }
+   ]}
+
+
+ ]
+}
