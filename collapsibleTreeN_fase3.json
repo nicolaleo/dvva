@@ -1,0 +1,459 @@
+{
+ "name": "Fase3",
+ "children": [
+    {
+   "name": "Cluster0",
+   "value": 302115,
+   "children": [
+    {
+     "name": "casa",
+     "value": 1
+    },
+    {
+     "name": "buon",
+     "value": 1
+    },
+    {
+     "name": "anni",
+     "value": 1
+    },
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "giorno",
+     "value": 1
+    },
+    {
+     "name": "governo",
+     "value": 1
+    },
+    {
+    "name": "persone",
+     "value": 1
+    },
+    {
+    "name": "tempo",
+     "value": 1
+    },
+    {
+    "name": "cuore",
+     "value": 1
+    },
+    {
+    "name": "mondo",
+     "value": 1
+    }
+   ]},
+  {
+   "name": "Cluster1",
+   "value": 2314,
+   "children": [
+    {
+     "name": "buona",
+     "value": 1
+    },
+    {
+     "name": "abbraccio",
+     "value": 1
+    },
+    {
+     "name": "felice",
+     "value": 1
+    },
+    {
+     "name": "grazie",
+     "value": 1
+    },
+    {
+     "name": "carissima",
+     "value": 1
+    },
+    {
+     "name": "bella",
+     "value": 1
+    },
+    {
+    "name": "carissimo",
+     "value": 1
+    },
+    {
+    "name": "caro",
+     "value": 1
+    },
+    {
+    "name": "radiosa",
+     "value": 1
+    },
+    {
+    "name": "bellissima",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster2",
+   "value": 2545,
+   "children": [
+    {
+     "name": "persone",
+     "value": 1
+    },
+    {
+     "name": "cose",
+     "value": 1
+    },
+    {
+     "name": "belle",
+     "value": 1
+    },
+    {
+     "name": "cuore",
+     "value": 1
+    },
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "immagini",
+     "value": 1
+    },
+    {
+     "name": "assembramenti",
+     "value": 1
+    },
+    {
+     "name": "parole",
+     "value": 1
+    },
+    {
+     "name": "donne",
+     "value": 1
+    },
+    {
+     "name": "mondo",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster3",
+   "value": 1652,
+   "children": [
+    {
+     "name": "abbraccio",
+     "value": 1
+    },
+    {
+     "name": "serena",
+     "value": 1
+    },
+    {
+     "name": "felice",
+     "value": 1
+    },
+    {
+     "name": "cara",
+     "value": 1
+    },
+    {
+     "name": "grazie",
+     "value": 1
+    },
+    {
+     "name": "splendida",
+     "value": 1
+    },
+    {
+     "name": "amici",
+     "value": 1
+    },
+    {
+     "name": "cuore",
+     "value": 1
+    },
+    {
+     "name": "carissima",
+     "value": 1
+    },
+    {
+     "name": "affetto",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster4",
+   "value": 3008,
+   "children": [
+    {
+     "name": "milioni",
+     "value": 1
+    },
+    {
+     "name": "euro",
+     "value": 1
+    },
+    {
+     "name": "italiani",
+     "value": 1
+    },
+    {
+     "name": "dollari",
+     "value": 1
+    },
+    {
+     "name": "governo",
+     "value": 1
+    },
+    {
+     "name": "finanziamento",
+     "value": 1
+    },
+    {
+     "name": "paese",
+     "value": 1
+    },
+    {
+     "name": "soldi",
+     "value": 1
+    },
+    {
+     "name": "lavoro",
+     "value": 1
+    },
+    {
+     "name": "miliardi",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster5",
+   "value": 1383,
+   "children": [
+    {
+     "name": "modo",
+     "value": 1
+    },
+    {
+     "name": "migliore",
+     "value": 1
+    },
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "persona",
+     "value": 1
+    },
+    {
+     "name": "persone",
+     "value": 1
+    },
+    {
+     "name": "tempo",
+     "value": 1
+    },
+    {
+     "name": "anni",
+     "value": 1
+    },
+    {
+     "name": "paese",
+     "value": 1
+    },
+    {
+     "name": "nero",
+     "value": 1
+    },
+    {
+     "name": "difendersi",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster6",
+   "value": 2066,
+   "children": [
+    {
+     "name": "grazie",
+     "value": 1
+    },
+    {
+     "name": "buon",
+     "value": 1
+    },
+    {
+     "name": "abbraccio",
+     "value": 1
+    },
+    {
+     "name": "affetto",
+     "value": 1
+    },
+    {
+     "name": "amici",
+     "value": 1
+    },
+    {
+     "name": "bacio",
+     "value": 1
+    },
+    {
+     "name": "tesoro",
+     "value": 1
+    },
+    {
+     "name": "dio",
+     "value": 1
+    },
+    {
+     "name": "famiglia",
+     "value": 1
+    },
+    {
+     "name": "auguri",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster7",
+   "value": 2897,
+   "children": [
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "anima",
+     "value": 1
+    },
+    {
+     "name": "dolore",
+     "value": 1
+    },
+    {
+     "name": "amicizia",
+     "value": 1
+    },
+    {
+     "name": "pace",
+     "value": 1
+    },
+    {
+     "name": "odio",
+     "value": 1
+    },
+    {
+     "name": "paura",
+     "value": 1
+    },
+    {
+     "name": "morte",
+     "value": 1
+    },
+    {
+     "name": "passione",
+     "value": 1
+    },
+    {
+     "name": "pensieri",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster8",
+   "value": 1664,
+   "children": [
+    
+{
+     "name": "serata",
+     "value": 1
+    },
+    {
+     "name": "luna",
+     "value": 1
+    },
+    {
+     "name": "luce",
+     "value": 1
+    },
+    {
+     "name": "alba",
+     "value": 1
+    },
+    {
+     "name": "sole",
+     "value": 1
+    },
+    {
+     "name": "stelle",
+     "value": 1
+    },
+    {
+     "name": "silenzio",
+     "value": 1
+    },
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "sapore",
+     "value": 1
+    },
+    {
+     "name": "amici",
+     "value": 1
+    }
+   ]},
+   {
+   "name": "Cluster9",
+   "value": 1024,
+   "children": [
+    
+{
+     "name": "strada",
+     "value": 1
+    },
+    {
+     "name": "gente",
+     "value": 1
+    },
+    {
+     "name": "vita",
+     "value": 1
+    },
+    {
+     "name": "mezzo",
+     "value": 1
+    },
+    {
+     "name": "cuore",
+     "value": 1
+    },
+    {
+     "name": "persone",
+     "value": 1
+    },
+    {
+     "name": "cane",
+     "value": 1
+    },
+    {
+     "name": "casa",
+     "value": 1
+    },
+    {
+     "name": "mascherina",
+     "value": 1
+    },
+    {
+     "name": "mesi",
+     "value": 1
+    }
+   ]}
+  
+
+ ]
+}
